@@ -1,0 +1,16 @@
+# Go
+EquipmentTracker.exe
+*.exe
+data.db
+app.log
+config.json
+
+# Node
+frontend/node_modules/
+frontend/dist/
+web/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
